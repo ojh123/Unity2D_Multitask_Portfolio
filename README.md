@@ -47,3 +47,4 @@
               제한 시간 내에 터치하지 못하면 게임에서 실패합니다.
   
 ## 4. 플레이영상
+https://youtu.be/pSWJZrgJYyY
